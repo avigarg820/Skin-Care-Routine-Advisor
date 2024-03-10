@@ -12,5 +12,7 @@ The Project SCREENSHOT 2: (https://github.com/avigarg820/SkinAdvisor/assets/5917
 
 The project Video: [https://github.com/avigarg820/SkinAdvisor/assets/59176248/4c9b7ca9-01ee-4377-a4ca-ea5867ed5bd8]
 
+Try the App Here: https://partyrock.aws/u/avi2024/Rr7U7Wlwl/Skin-care-Advisor
+
 
 
